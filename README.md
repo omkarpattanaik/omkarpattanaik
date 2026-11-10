@@ -36,4 +36,4 @@ When I'm building side projects, I usually reach for:
 ---
 
 ## 📊 GitHub Activity
-![Omkar's GitHub Stats](https://omkarpattanaik.github.io/)
+[Omkar's GitHub Stats](https://omkarpattanaik.github.io/)
