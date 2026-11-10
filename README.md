@@ -8,7 +8,7 @@ Welcome to my digital playground! This is where I tinker with code, explore weir
 
 * **🛠️ Weekend Apps & Tiny Tools:** Building lightweight apps, CLI scripts, and mobile utilities whenever I run into a small everyday problem or just want to try out a new framework.
 * **🤖 Tinkering with AI & LLMs:** Diving into Kaggle competitions and experimenting with machine learning ensembles—most recently trying to figure out which frontier LLM wrote what in <!--**[Name-That-LLM](https://github.com)**.-->
-* **🎮 Game Dev & Interactive Engines:** Exploring 2D game creation, visual editors, and game engines like **[ct-js](https://github.com)** to see how fun mechanics come together.
+* **🎮 Game Dev & Interactive Engines:** Exploring 2D game creation, visual editors, and game engines like **[ct-js](https://github.com/ct-js)** to see how fun mechanics come together.
 
 
 ---
