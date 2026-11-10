@@ -8,7 +8,7 @@ Welcome to my digital playground! This is where I tinker with code, explore weir
 
 * **🛠️ Weekend Apps & Tiny Tools:** Building lightweight apps, CLI scripts, and mobile utilities whenever I run into a small everyday problem or just want to try out a new framework.
 * **🤖 Tinkering with AI & LLMs:** Diving into Kaggle competitions and experimenting with machine learning ensembles—most recently trying to figure out which frontier LLM wrote what in <!--**[Name-That-LLM](https://github.com)**.-->
-* **🎮 Game Dev & Interactive Engines:** Exploring 2D game creation, visual editors, and game engines like **[ct-js](https://github.com/ct-js)** to see how fun mechanics come together.
+* **🎮 Game Dev & Interactive Engines:** Exploring 2D game creation, visual editors, and game engines like **[ct-js](https://github.com/https://github.com/omkarpattanaik/ct-js)** to see how fun mechanics come together my [commit](https://github.com/ct-js/ct-js/commits/develop/?author=omkarpattanaik).
 
 
 ---
@@ -16,14 +16,14 @@ Welcome to my digital playground! This is where I tinker with code, explore weir
 ## 🧪 Hobby Projects & Tinkering
 
 ### 🎵 Fun Apps & Creative Builds
-* **[MoMiniMusicPlayer](https://github.com/MoMiniMusicPlayer)** — A minimalist, lightweight music player built with Vue just to keep things simple and clean.
-* **[WhatsAppStickerYard](https://github.com/WhatsAppStickerYard)** — A fun TypeScript side project for creating and managing custom WhatsApp stickers.
-* **[omkarpattanaik.github.io](https://github.com/omkarpattanaik.github.io)** — My personal corner of the web hosted on GitHub Pages.
+* **[MoMiniMusicPlayer](https://github.com/omkarpattanaik/MoMiniMusicPlayer)** — A minimalist, lightweight music player built with Vue just to keep things simple and clean.
+* **[WhatsAppStickerYard](https://github.com/omkarpattanaik/WhatsAppStickerYard)** — A fun TypeScript side project for creating and managing custom WhatsApp stickers.
+* **[omkarpattanaik.github.io](https://github.com/omkarpattanaik/omkarpattanaik.github.io)** — My personal corner of the web hosted on GitHub Pages.
 
 ### ⚙️ CLI Toys & Dev Experiments
-* **[MooCLI](https://github.com/MooCLI)** — A custom JavaScript command-line tool built for experimenting in the terminal.
-* **[cap-set-version-from-package](https://github.com/cap-set-version-from-package)** — A tiny automation script I made to save time syncing Capacitor app versions.
-* **[pirated-data](https://github.com/pirated-data)** — Playing around with mock user data generation for quick prototyping.
+* **[MooCLI](https://github.com/omkarpattanaik/MooCLI)** — A custom JavaScript command-line tool built for experimenting in the terminal.
+* **[cap-set-version-from-package](https://github.com/omkarpattanaik/cap-set-version-from-package)** — A tiny automation script I made to save time syncing Capacitor app versions.
+* **[pirated-data](https://github.com/omkarpattanaik/pirated-data)** — Playing around with mock user data generation for quick prototyping.
 
 ---
 
